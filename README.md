@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the AWS platform and a few coding languages such as Bash, Python and PowerShell.
 - 💞️ I’m looking to collaborate on any projects that inolve automation.
 - 📫 How to reach me https://www.linkedin.com/in/mike-etherington/
+- 🤵 How to follow me https://twitter.com/MikeTech93
 
 <!---
 MikeTech93/MikeTech93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
