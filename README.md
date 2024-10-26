@@ -6,7 +6,7 @@
   
 - 🌲 I'm an accomplished sysadmin, fluent in scripting languages like: Bash, Python, PowerShell, NodeJS
   
-- ☁️ I hold proffessional level certs in AWS and also Azure.
+- ☁️ I hold professional level certs in AWS and also Azure.
   
 - 🌱 Written built and deployed production used backend applications in Python + Javascript and now starting to dabble in a bit of .NET
 
