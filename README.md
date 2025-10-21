@@ -16,4 +16,4 @@
   
 🔨 Whether you have an existing application or need to build one from scratch, I can help you automate the entire deployment pipeline so you can focus on writing great code.
   
-📫 Reach me on LinkedIn
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mike-etherington/)
